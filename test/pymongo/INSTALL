@@ -1,0 +1,4 @@
+1. install pymongo
+	sudo apt-get install python-setuptools
+	sudo easy_install pymongo
+
